@@ -1,2 +1,2 @@
 #!/bin/bash
-chom -R +x
+chom -R +x 
