@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Elizabeth it is in vain you say" | awk '{printf "%s", substr($0, 1, 1)} END {print ""}'
